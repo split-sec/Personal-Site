@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 5.625rem;
+  color: #4f00c9;
+}
+
+h2 {
+  margin-top: 0;
+  font-family: 'Poppins', sans-serif;
+  color: #4f00c9;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Poppins', sans-serif;
+  color: #A66CFF;
+}
+
+a {
+  color: #A66CFF;
+}
+
+.programmer {
+  font-size: 2.5rem;
+}
+
+.top-container {
+  background-color: #B1E1FF;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+hr {
+  border-top: 7px dotted #d3dddd;
+  width: 50px;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+p {
+  margin-bottom: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.pfp {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+.spacing {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.title-spacing {
+  margin-bottom: 30px;
+}
+
+.pro {
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: #000000;
+}
+
+.computer-symbol {
+  border-radius: 50%;
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.webdev-symbol {
+  border-radius: 50%;
+  width: 25%;
+  height: 25%;
+  float:right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.btn {
+  background-color: #4f00c9;
+  padding: 16px 32px;
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+  font-weight: normal;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+
+.bottom-container {
+  background-color: #A66CFF;
+  margin-bottom: 0;
+  position: relative;
+  padding-top: 30px; 
+}
+
+.footer-link {
+  padding: 5px 10px;
+  margin-top: 10px;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+  color: #4f00c9;
+}
+
+.copyrights {
+  padding-bottom: 30px;
+  color: white;
+}
